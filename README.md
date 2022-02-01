@@ -1,0 +1,2 @@
+# CollabsCentral
+CollabsX is seeking to design and build an application that will bring together general users(customers), social media influencers, system administrator and affiliate marketers all for a mutual gain in sales and product promotion of rich content and products. The solution comprises of a middleware engine and middleware database, that work together to realize this. Each of the components have a distinct functions. The solution will receive, store and manipulate transactions between the system users through a usable and creative user interface.
